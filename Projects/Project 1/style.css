@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;  
+    height: 100vh; 
+
+}
+img{
+    height: 220px;
+    border: 4px lemonchiffon snow solid;
+    border-radius: 10px;
+    box-shadow: 4px 10px 40px;
+    align-items: center;
+}
+#headers{
+    /* padding-left: 100px ; */
+    text-align: center;
+}
+
+#bodies{
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 2px 4 px 6px;
+}

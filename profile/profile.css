@@ -1,0 +1,30 @@
+
+img{
+    height: 200px;
+    width: 300px;
+    border-radius: 30%;
+}
+
+body{
+    /* background: linear-gradient(
+        (rgb(126, 76, 47),rgb(238, 0, 255),rgb(122,0,234))
+    ); */
+    background-image: url('https://thewowstyle.com/wp-content/uploads/2015/01/nature-images..jpg');
+    
+    /* background-repeat: no-repeat; */
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+#profile{
+    height: 70vh;
+    width: 50vh;
+    background-color: rgb(211, 155, 155);
+    border: 1px solid blanchedalmond;
+    text-align: center;
+    border-radius: 40px;
+    box-shadow: 3px 2px 50px rgb(55, 175, 184);
+    margin-left: 40%;
+    margin-top: 40%;
+}

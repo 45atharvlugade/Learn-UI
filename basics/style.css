@@ -1,0 +1,42 @@
+#hello{
+    height: 300px;
+    width: 200px;
+    border: 10px solid  ;
+    border-color: blue;
+    border-radius: 200px;
+    padding:150px 60px 30px 70px;
+
+    /*
+       Padding in all the Sides
+           padding: 300px;
+
+        padding in left and right each each
+        padding : 20px 30px;    
+    */
+
+    
+    
+}
+
+#div1{
+    box-sizing: border-box;
+    height: 300px;
+    width: 200px;
+    border-color: brown;
+    border: 10px dashed solid;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+
+    padding: 50px 250px;
+    /*
+         Padding means The Space the Betwen the Border and the COntent box.
+    */
+
+    /*
+        margin means space outside the border box
+    */
+
+    margin-left: 260px;
+}
