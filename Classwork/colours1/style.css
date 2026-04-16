@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Smooch+Sans:wght@100..900&display=swap');
+
+
+#mydiv{
+ border: 3px solid black;
+ width: 100px;
+ margin: 30px;
+ text-align: center;
+ background-color: aquamarine;
+ 
+}
+#mydiv1{
+ border: 3px solid black;
+ width: 100px;
+ margin: 30px;
+ text-align: center;
+ /* background-color: hsl(38, 88%, 73%); or hsla(a stands for alpha) */
+background-color: gray;
+
+}
+body{
+    /* background-color: rgba(rgb(121, 66, 66), rgb(58, 91, 58), rgb(89, 89, 225), 0.7) */
+    /* background: linear-gradient(to left,white 35%,pink 65%,orange 60%,red ,brown 60%,black); */
+    background: radial-gradient(red,orange,pink,black);
+    height: 100vh;
+
+
+}
+
+h1{
+    text-align: centre;
+    font-family: "Smooch Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}

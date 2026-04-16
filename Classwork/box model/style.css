@@ -1,0 +1,17 @@
+#mydiv {
+   height: 300px;
+   width: max-content;
+   border: 3px solid red;
+   background-color: antiquewhite; 
+   /* border-radius: 20px; */
+   border-bottom-left-radius: 30px;
+   border-top-right-radius: 70px;
+   border-top-left-radius: 10px;
+   padding-left: 30vh;
+   padding-top: 40px;
+
+    box-sizing: border-box;
+
+   /* to off the increasing the default size while we are working with the padding  we dont want it  */
+  
+} 

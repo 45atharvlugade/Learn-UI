@@ -10,6 +10,10 @@ img{
     box-shadow: 4px 10px 40px;
     align-items: center;
 }
+
+#image1{
+    align-self: center;
+}
 #headers{
     /* padding-left: 100px ; */
     text-align: center;

@@ -1,0 +1,14 @@
+body{
+    background:linear-gradient(orange,green);
+    height: 100vb;
+    margin-left: 50%;
+}
+#div1{
+    border: 3pt solid black;
+    border-radius: 35px;
+    width: 100px;
+    text-align: center;
+    background: radial-gradient(red,blue);
+
+}
+
