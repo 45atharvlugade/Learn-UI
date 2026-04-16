@@ -1,0 +1,31 @@
+body{
+    background: linear-gradient(to right,rgb(98, 98, 10),rgb(180, 39, 147),rgb(234, 40, 72),rgb(98, 98, 10));
+    height: 100vh;
+    width: 80vw;
+    
+}
+.box{
+    height: 300px;
+    width: 200px;
+    border: 3px solid black;
+    display: inline-block;
+    text-align: center;
+    
+}
+img{
+    height: 180px;
+    width: 200px;
+}
+text{
+    padding: 0;
+}
+.box1{
+    background-color: aqua;
+
+}
+.box2{
+    background-color: antiquewhite;
+}
+.box3{
+    background-color: aquamarine;
+}

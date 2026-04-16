@@ -1,0 +1,27 @@
+body{
+    height: 500px;
+    width: 1000px;
+    border: 2px double red;
+    border-radius: 35px;
+    background-color: rgb(48, 99, 143);
+}
+
+#div1{
+    border: 2px dotted black;
+    border-radius: 25px;
+    height: 400px;
+    width: 800px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+ background-color: aqua;
+}
+.box{
+    border: 3px solid rgb(86, 3, 3);
+    width: 60px;
+    height: 100px;
+    background-color: blue;
+    tex
+    
+}

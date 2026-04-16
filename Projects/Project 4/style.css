@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+    border: 1px solid orange;
+    width: 500px;
+}
+#div{
+    background-color: rgb(154, 134, 211);
+    border: 2px dotted rgb(61, 1, 58);
+    width: 1000px;
+    height: 500px;
+    display: flex;
+    /* flex-direction: row; */
+    flex-direction: row;
+    justify-content:space-around ; /* safe-around*/
+    align-items: center;
+    
+}
+
+.box{
+    border: 3px dotted pink;
+    width: 100px;
+    text-align: center;
+}
