@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    height: 900px;
+    width: 2500px;
+    border: 1px solid brown;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center; /*  works in horizontal direction  */
+    background-color: rgb(140, 140, 170);
+    align-items: center; /*  Works in verticl direction*/
+    /* gap: 40px; */
+    box-sizing: content-box;
+    box-shadow: 200px  rgb(0, 0, 0);
+}
+
+.boc{
+    height: 200px;
+    width: 200px;
+    border: 4px solid rgb(103, 110, 93);
+    background-color: aqua;
+    
+
+}
+.box3{
+    align-self: end;
+}
+.box2{
+    /* align-self: flex-start;
+    justify-self: end; */
+    order:4;
+}
+.box4{
+order: 5;
+}
+
+.box1{
+    order: 3;
+}

@@ -1,0 +1,29 @@
+
+body{
+    height: 800px;
+    width: 700px;
+  border: 2px solid blueviolet;
+}
+
+.box{
+   border: 2px solid brown;
+   height: 200px;
+   width: 90px;
+   background-color: aqua;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   box-shadow: inset;
+}
+.box1{
+    
+}
+
+img{
+   border: 2px solid black;
+   height: 80px;
+   width: 90px;
+   border-image: auto;
+   border-radius: 45px;
+   font-display: auto;
+}
