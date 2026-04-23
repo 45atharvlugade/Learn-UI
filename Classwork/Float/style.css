@@ -1,0 +1,11 @@
+*{
+      padding: 0px;
+      margin: 0px;
+}
+
+
+.left{
+    float: right;
+    background-image: url("Project-9-img.webp");
+    background-color: white;
+}

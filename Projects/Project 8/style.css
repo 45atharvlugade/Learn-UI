@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.outer{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("Project-8-img1.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+    padding-left:3vw ;
+}
+input{
+    height: 5vh;
+    width: 20vw;
+    padding: 5px;
+    font-size: large;
+    margin-top: 25px;  
+    box-sizing: border-box;
+}
+button{
+    height: 5vh;
+    width: 10vw;
+    padding: 5px;
+    margin-top: 25px;
+    margin-left: 15px;
+    font-size: large;
+    box-sizing: border-box;
+    background-color: rgb(207, 161, 12);
+    border: none;
+    color:white;
+}

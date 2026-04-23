@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#Div1{
+
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+    background-color: blue;
+    row-gap: 300px;
+    column-gap: 100px;
+}
+
+.child{
+    background-color: aquamarine;
+    height: 50px;
+    width: 50px;
+}

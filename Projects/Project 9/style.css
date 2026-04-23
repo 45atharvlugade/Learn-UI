@@ -1,0 +1,75 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    height: 100vh;
+    background-image: url('https://resource.logitech.com/w_1440,h_810,ar_16:9,c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/software/software-page/total-gear-control-with-g-hub-desktop.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    font-size: 16px;
+    max-width: 1280px;
+    margin: auto;
+    font-weight: 1000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+header{
+    display: flex;
+    justify-content: space-between; 
+    padding: 50px 20px;
+
+}
+.logo{
+    font-size: 48px;
+    color: white;
+}
+.menu{
+    display: flex;
+    list-style: none;
+    gap:50px ;
+    align-items: first baseline;
+}
+.menu>li>a{
+    color: white;
+    text-decoration: none;
+}
+
+#user{
+    display: flex;
+    align-items: center;
+}
+
+#search{
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 35px;
+    padding: 5px ;
+}
+#search>input{
+    background-color: transparent;
+    border: none;
+    padding: 5px;
+    width: 200px;
+}
+#bannner{
+    display: flex;
+    
+
+}
+
+.left{
+    display: flexs;
+    flex-direction: columns;
+}
+
+.left>h1{
+    font-size: 78px;
+    color: antiquewhite;
+}
+.left>p{
+    color: aliceblue;
+    font-size: 20px;
+}
